@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace death\DeathHead;
+namespace RealYXNG\DeathHead;
 use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
