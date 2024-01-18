@@ -4,7 +4,7 @@ main: RealYXNG\DeathHead\Main
 version: 1.0.0
 api:
 - 4.0.0
-author: RealYXNG
+author: RealYXNG updated Vape
 description: Drop a player head on their death.
 commands:
   dh:
